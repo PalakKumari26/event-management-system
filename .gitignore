@@ -1,0 +1,23 @@
+# React dependencies
+frontend/node_modules/
+
+# React build files
+frontend/dist/
+frontend/build/
+
+# Java compiled files
+backend/out/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Environment files
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
